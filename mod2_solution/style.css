@@ -35,6 +35,7 @@ main {
     position: absolute;
     top: 0;
     right: 0;
+    float:right;
     background-color: #ffcc00; /* Yellow */
     color: black;
     padding: 5px 10px;
